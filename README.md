@@ -35,7 +35,7 @@ Dieses Projekt stellt eine **Security Toolbox** als **Webdienst** zur Verfügung
 
 ---
 
-## 📁 Projektstruktur
+##  Projektstruktur
 
 ```plaintext
 /var/www/html/           → Startseite & HTML-Tools
